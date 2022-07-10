@@ -39,8 +39,4 @@ function printHighscores() {
   
   // run printhighscore when page loads
   printHighscores();
-  Footer
-  © 2022 GitHub, Inc.
-  Footer navigation
-  Terms
-  P
+  
